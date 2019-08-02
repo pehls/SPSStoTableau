@@ -1,0 +1,430 @@
+2019-05-17 14:15:33.516 (7788): pid=2156----------------------------------
+2019-05-17 14:15:33.526 (7788): Creating a connection to tde server
+2019-05-17 14:15:33.526 (7788): Starting new server instance
+2019-05-17 14:15:33.527 (7788): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 14:15:33.527 (7788): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 14:15:33.950 (7788): Opening connection to tab.pipe://./pipe/{1FE1E210-E4C4-4908-A178-8C32D72BC64A}
+2019-05-17 14:15:33.950 (7788): Creating new connection: tab.pipe://./pipe/{1FE1E210-E4C4-4908-A178-8C32D72BC64A}
+2019-05-17 14:15:33.951 (7788): Creating new database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 14:15:40.380 (7788): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 14:15:41.617 (7788): Dropping connection
+2019-05-17 14:15:41.617 (7788): Closing server at: tab.pipe://./pipe/{1FE1E210-E4C4-4908-A178-8C32D72BC64A}
+2019-05-17 15:22:59.640 (7172): pid=7932----------------------------------
+2019-05-17 15:22:59.647 (7172): Creating a connection to tde server
+2019-05-17 15:22:59.647 (7172): Starting new server instance
+2019-05-17 15:22:59.648 (7172): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:22:59.648 (7172): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:23:00.589 (7172): Opening connection to tab.pipe://./pipe/{76DF0914-9BF4-4DD3-882C-518C8CD83D3D}
+2019-05-17 15:23:00.589 (7172): Creating new connection: tab.pipe://./pipe/{76DF0914-9BF4-4DD3-882C-518C8CD83D3D}
+2019-05-17 15:23:00.589 (7172): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:23:01.850 (3412): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:23:02.497 (3412): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:23:03.074 (3412): Dropping connection
+2019-05-17 15:23:03.075 (3412): Closing server at: tab.pipe://./pipe/{76DF0914-9BF4-4DD3-882C-518C8CD83D3D}
+2019-05-17 15:26:23.899 (10444): pid=10256----------------------------------
+2019-05-17 15:26:23.909 (10444): Creating a connection to tde server
+2019-05-17 15:26:23.909 (10444): Starting new server instance
+2019-05-17 15:26:23.910 (10444): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:26:23.910 (10444): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:26:24.311 (10444): Opening connection to tab.pipe://./pipe/{DEF896DC-5615-4D26-B579-960442D514A4}
+2019-05-17 15:26:24.311 (10444): Creating new connection: tab.pipe://./pipe/{DEF896DC-5615-4D26-B579-960442D514A4}
+2019-05-17 15:26:24.312 (10444): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:26:25.405 (3848): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:26:26.046 (3848): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:26:26.651 (3848): Dropping connection
+2019-05-17 15:26:26.651 (3848): Closing server at: tab.pipe://./pipe/{DEF896DC-5615-4D26-B579-960442D514A4}
+2019-05-17 15:27:09.909 (7976): pid=5452----------------------------------
+2019-05-17 15:27:09.914 (7976): Creating a connection to tde server
+2019-05-17 15:27:09.914 (7976): Starting new server instance
+2019-05-17 15:27:09.915 (7976): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:27:09.915 (7976): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:27:10.331 (7976): Opening connection to tab.pipe://./pipe/{DCEAF96A-9B77-4B81-9702-5F899B4EF00B}
+2019-05-17 15:27:10.331 (7976): Creating new connection: tab.pipe://./pipe/{DCEAF96A-9B77-4B81-9702-5F899B4EF00B}
+2019-05-17 15:27:10.332 (7976): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:28:09.445 (4344): pid=3260----------------------------------
+2019-05-17 15:28:09.451 (4344): Creating a connection to tde server
+2019-05-17 15:28:09.451 (4344): Starting new server instance
+2019-05-17 15:28:09.452 (4344): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:28:09.452 (4344): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:28:09.830 (4344): Opening connection to tab.pipe://./pipe/{0D55AB7E-96A8-48BD-B2F8-A3AFFB4F3689}
+2019-05-17 15:28:09.831 (4344): Creating new connection: tab.pipe://./pipe/{0D55AB7E-96A8-48BD-B2F8-A3AFFB4F3689}
+2019-05-17 15:28:09.831 (4344): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:29:08.197 (8900): pid=10856----------------------------------
+2019-05-17 15:29:08.206 (8900): Creating a connection to tde server
+2019-05-17 15:29:08.206 (8900): Starting new server instance
+2019-05-17 15:29:08.206 (8900): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:29:08.206 (8900): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:29:08.607 (8900): Opening connection to tab.pipe://./pipe/{D0D10103-576E-4658-A6B6-001EFC7D3DE7}
+2019-05-17 15:29:08.607 (8900): Creating new connection: tab.pipe://./pipe/{D0D10103-576E-4658-A6B6-001EFC7D3DE7}
+2019-05-17 15:29:08.607 (8900): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:36:47.281 (11184): pid=3424----------------------------------
+2019-05-17 15:36:47.291 (11184): Creating a connection to tde server
+2019-05-17 15:36:47.291 (11184): Starting new server instance
+2019-05-17 15:36:47.292 (11184): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:36:47.292 (11184): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:36:47.747 (11184): Opening connection to tab.pipe://./pipe/{FC6533B3-2D80-4CE4-B96F-B9FD9F4D9B39}
+2019-05-17 15:36:47.747 (11184): Creating new connection: tab.pipe://./pipe/{FC6533B3-2D80-4CE4-B96F-B9FD9F4D9B39}
+2019-05-17 15:36:47.748 (11184): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:38.591 (1068): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:39.774 (1068): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:40.354 (1068): Dropping connection
+2019-05-17 15:43:40.355 (1068): Closing server at: tab.pipe://./pipe/{FC6533B3-2D80-4CE4-B96F-B9FD9F4D9B39}
+2019-05-17 15:43:56.066 (2488): pid=8284----------------------------------
+2019-05-17 15:43:56.072 (2488): Creating a connection to tde server
+2019-05-17 15:43:56.072 (2488): Starting new server instance
+2019-05-17 15:43:56.073 (2488): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:43:56.073 (2488): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:43:56.418 (2488): Opening connection to tab.pipe://./pipe/{27F8FC7E-5654-4B01-AA18-E5F27725EFC8}
+2019-05-17 15:43:56.418 (2488): Creating new connection: tab.pipe://./pipe/{27F8FC7E-5654-4B01-AA18-E5F27725EFC8}
+2019-05-17 15:43:56.419 (2488): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:57.456 (2488): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:58.082 (2488): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:43:58.657 (2488): Dropping connection
+2019-05-17 15:43:58.657 (2488): Closing server at: tab.pipe://./pipe/{27F8FC7E-5654-4B01-AA18-E5F27725EFC8}
+2019-05-17 15:44:12.416 (5940): pid=5580----------------------------------
+2019-05-17 15:44:12.422 (5940): Creating a connection to tde server
+2019-05-17 15:44:12.422 (5940): Starting new server instance
+2019-05-17 15:44:12.422 (5940): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:44:12.422 (5940): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:44:12.742 (5940): Opening connection to tab.pipe://./pipe/{EF89B9A1-ED67-4129-A098-26964A8B7924}
+2019-05-17 15:44:12.742 (5940): Creating new connection: tab.pipe://./pipe/{EF89B9A1-ED67-4129-A098-26964A8B7924}
+2019-05-17 15:44:12.742 (5940): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:13.785 (5940): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:14.421 (5940): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:15.012 (5940): Dropping connection
+2019-05-17 15:44:15.012 (5940): Closing server at: tab.pipe://./pipe/{EF89B9A1-ED67-4129-A098-26964A8B7924}
+2019-05-17 15:44:50.728 (4344): pid=4176----------------------------------
+2019-05-17 15:44:50.746 (4344): Creating a connection to tde server
+2019-05-17 15:44:50.746 (4344): Starting new server instance
+2019-05-17 15:44:50.746 (4344): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:44:50.746 (4344): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:44:51.127 (4344): Opening connection to tab.pipe://./pipe/{E1DAD16F-1385-4561-9646-21EAF225CE5E}
+2019-05-17 15:44:51.127 (4344): Creating new connection: tab.pipe://./pipe/{E1DAD16F-1385-4561-9646-21EAF225CE5E}
+2019-05-17 15:44:51.127 (4344): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:52.191 (4344): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:52.895 (4344): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:44:53.525 (4344): Dropping connection
+2019-05-17 15:44:53.525 (4344): Closing server at: tab.pipe://./pipe/{E1DAD16F-1385-4561-9646-21EAF225CE5E}
+2019-05-17 15:46:15.335 (1812): pid=5468----------------------------------
+2019-05-17 15:46:15.344 (1812): Creating a connection to tde server
+2019-05-17 15:46:15.344 (1812): Starting new server instance
+2019-05-17 15:46:15.345 (1812): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 15:46:15.345 (1812): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 15:46:15.809 (1812): Opening connection to tab.pipe://./pipe/{5C0E470E-DC93-4279-9772-23DCC9277396}
+2019-05-17 15:46:15.809 (1812): Creating new connection: tab.pipe://./pipe/{5C0E470E-DC93-4279-9772-23DCC9277396}
+2019-05-17 15:46:15.809 (1812): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:46:16.960 (9892): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:46:17.620 (9892): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 15:46:18.274 (9892): Dropping connection
+2019-05-17 15:46:18.275 (9892): Closing server at: tab.pipe://./pipe/{5C0E470E-DC93-4279-9772-23DCC9277396}
+2019-05-17 16:19:14.882 (8464): pid=10256----------------------------------
+2019-05-17 16:19:14.898 (8464): Creating a connection to tde server
+2019-05-17 16:19:14.898 (8464): Starting new server instance
+2019-05-17 16:19:14.898 (8464): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:19:14.898 (8464): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:19:15.367 (8464): Opening connection to tab.pipe://./pipe/{5927FD81-05AA-4F51-B602-73BD9674117E}
+2019-05-17 16:19:15.367 (8464): Creating new connection: tab.pipe://./pipe/{5927FD81-05AA-4F51-B602-73BD9674117E}
+2019-05-17 16:19:15.368 (8464): Creating new database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:19:18.754 (2984): Dropping connection
+2019-05-17 16:19:18.755 (2984): Closing server at: tab.pipe://./pipe/{5927FD81-05AA-4F51-B602-73BD9674117E}
+2019-05-17 16:19:52.780 (2484): pid=7532----------------------------------
+2019-05-17 16:19:52.793 (2484): Creating a connection to tde server
+2019-05-17 16:19:52.793 (2484): Starting new server instance
+2019-05-17 16:19:52.794 (2484): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:19:52.794 (2484): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:19:53.126 (2484): Opening connection to tab.pipe://./pipe/{285539AF-7EA1-4C65-8702-B64CA461A0D4}
+2019-05-17 16:19:53.126 (2484): Creating new connection: tab.pipe://./pipe/{285539AF-7EA1-4C65-8702-B64CA461A0D4}
+2019-05-17 16:19:53.127 (2484): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:19:53.164 (10016): Dropping connection
+2019-05-17 16:19:53.164 (10016): Closing server at: tab.pipe://./pipe/{285539AF-7EA1-4C65-8702-B64CA461A0D4}
+2019-05-17 16:20:25.633 (9516): pid=7028----------------------------------
+2019-05-17 16:20:25.646 (9516): Creating a connection to tde server
+2019-05-17 16:20:25.646 (9516): Starting new server instance
+2019-05-17 16:20:25.647 (9516): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:20:25.647 (9516): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:20:25.969 (9516): Opening connection to tab.pipe://./pipe/{19B747B5-4939-40BA-8BD2-1D0BBD457AF5}
+2019-05-17 16:20:25.969 (9516): Creating new connection: tab.pipe://./pipe/{19B747B5-4939-40BA-8BD2-1D0BBD457AF5}
+2019-05-17 16:20:25.969 (9516): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:20:26.006 (10932): Dropping connection
+2019-05-17 16:20:26.006 (10932): Closing server at: tab.pipe://./pipe/{19B747B5-4939-40BA-8BD2-1D0BBD457AF5}
+2019-05-17 16:20:44.200 (7536): pid=7300----------------------------------
+2019-05-17 16:20:44.208 (7536): Creating a connection to tde server
+2019-05-17 16:20:44.209 (7536): Starting new server instance
+2019-05-17 16:20:44.209 (7536): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:20:44.209 (7536): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:20:44.521 (7536): Opening connection to tab.pipe://./pipe/{4239807C-6C57-4918-9C82-E4EABDAA6DF6}
+2019-05-17 16:20:44.522 (7536): Creating new connection: tab.pipe://./pipe/{4239807C-6C57-4918-9C82-E4EABDAA6DF6}
+2019-05-17 16:20:44.522 (7536): Creating new database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:20:47.961 (8220): Dropping connection
+2019-05-17 16:20:47.961 (8220): Closing server at: tab.pipe://./pipe/{4239807C-6C57-4918-9C82-E4EABDAA6DF6}
+2019-05-17 16:22:54.421 (4796): pid=10900----------------------------------
+2019-05-17 16:22:54.439 (4796): Creating a connection to tde server
+2019-05-17 16:22:54.439 (4796): Starting new server instance
+2019-05-17 16:22:54.440 (4796): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:22:54.440 (4796): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:22:54.928 (4796): Opening connection to tab.pipe://./pipe/{AC09FEAE-286F-4DC9-AD09-0B4B7C8DAB57}
+2019-05-17 16:22:54.928 (4796): Creating new connection: tab.pipe://./pipe/{AC09FEAE-286F-4DC9-AD09-0B4B7C8DAB57}
+2019-05-17 16:22:54.928 (4796): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:22:54.961 (4644): Dropping connection
+2019-05-17 16:22:54.961 (4644): Closing server at: tab.pipe://./pipe/{AC09FEAE-286F-4DC9-AD09-0B4B7C8DAB57}
+2019-05-17 16:39:07.619 (11028): pid=7544----------------------------------
+2019-05-17 16:39:07.636 (11028): Creating a connection to tde server
+2019-05-17 16:39:07.636 (11028): Starting new server instance
+2019-05-17 16:39:07.637 (11028): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:39:07.637 (11028): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:39:08.061 (11028): Opening connection to tab.pipe://./pipe/{364F87E3-0C80-46AC-A386-35A693C9F86B}
+2019-05-17 16:39:08.061 (11028): Creating new connection: tab.pipe://./pipe/{364F87E3-0C80-46AC-A386-35A693C9F86B}
+2019-05-17 16:39:08.062 (11028): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:39:08.097 (4764): Dropping connection
+2019-05-17 16:39:08.098 (4764): Closing server at: tab.pipe://./pipe/{364F87E3-0C80-46AC-A386-35A693C9F86B}
+2019-05-17 16:40:03.563 (9788): pid=6268----------------------------------
+2019-05-17 16:40:03.574 (9788): Creating a connection to tde server
+2019-05-17 16:40:03.575 (9788): Starting new server instance
+2019-05-17 16:40:03.575 (9788): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:40:03.575 (9788): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:40:03.947 (9788): Opening connection to tab.pipe://./pipe/{76BF1987-B00B-4C7A-89AC-064ED9A97D0E}
+2019-05-17 16:40:03.947 (9788): Creating new connection: tab.pipe://./pipe/{76BF1987-B00B-4C7A-89AC-064ED9A97D0E}
+2019-05-17 16:40:03.947 (9788): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:40:03.991 (6508): Dropping connection
+2019-05-17 16:40:03.991 (6508): Closing server at: tab.pipe://./pipe/{76BF1987-B00B-4C7A-89AC-064ED9A97D0E}
+2019-05-17 16:40:45.359 (9988): pid=1008----------------------------------
+2019-05-17 16:40:45.371 (9988): Creating a connection to tde server
+2019-05-17 16:40:45.371 (9988): Starting new server instance
+2019-05-17 16:40:45.371 (9988): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:40:45.371 (9988): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:40:45.732 (9988): Opening connection to tab.pipe://./pipe/{44FCDB96-1942-419B-929B-0C4F71DC8BB9}
+2019-05-17 16:40:45.732 (9988): Creating new connection: tab.pipe://./pipe/{44FCDB96-1942-419B-929B-0C4F71DC8BB9}
+2019-05-17 16:40:45.732 (9988): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:40:45.773 (5156): Dropping connection
+2019-05-17 16:40:45.773 (5156): Closing server at: tab.pipe://./pipe/{44FCDB96-1942-419B-929B-0C4F71DC8BB9}
+2019-05-17 16:41:16.812 (2904): pid=7348----------------------------------
+2019-05-17 16:41:16.825 (2904): Creating a connection to tde server
+2019-05-17 16:41:16.825 (2904): Starting new server instance
+2019-05-17 16:41:16.825 (2904): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:41:16.825 (2904): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:41:17.155 (2904): Opening connection to tab.pipe://./pipe/{A3F8361E-02A1-4593-A875-51880B4F7E78}
+2019-05-17 16:41:17.155 (2904): Creating new connection: tab.pipe://./pipe/{A3F8361E-02A1-4593-A875-51880B4F7E78}
+2019-05-17 16:41:17.155 (2904): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:41:17.196 (4280): Dropping connection
+2019-05-17 16:41:17.196 (4280): Closing server at: tab.pipe://./pipe/{A3F8361E-02A1-4593-A875-51880B4F7E78}
+2019-05-17 16:41:43.904 (8444): pid=4352----------------------------------
+2019-05-17 16:41:43.916 (8444): Creating a connection to tde server
+2019-05-17 16:41:43.916 (8444): Starting new server instance
+2019-05-17 16:41:43.917 (8444): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:41:43.917 (8444): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:41:44.283 (8444): Opening connection to tab.pipe://./pipe/{DAA3DAF1-9950-4492-99B1-6749EE05AAFD}
+2019-05-17 16:41:44.283 (8444): Creating new connection: tab.pipe://./pipe/{DAA3DAF1-9950-4492-99B1-6749EE05AAFD}
+2019-05-17 16:41:44.284 (8444): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:45:28.752 (8384): pid=7136----------------------------------
+2019-05-17 16:45:28.765 (8384): Creating a connection to tde server
+2019-05-17 16:45:28.765 (8384): Starting new server instance
+2019-05-17 16:45:28.766 (8384): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 16:45:28.766 (8384): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 16:45:29.127 (8384): Opening connection to tab.pipe://./pipe/{63B9E0FA-64E4-4AB6-A2D3-CA90829ACB2A}
+2019-05-17 16:45:29.127 (8384): Creating new connection: tab.pipe://./pipe/{63B9E0FA-64E4-4AB6-A2D3-CA90829ACB2A}
+2019-05-17 16:45:29.128 (8384): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:46:33.923 (3032): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 16:47:13.325 (3032): Dropping connection
+2019-05-17 16:47:13.325 (3032): Closing server at: tab.pipe://./pipe/{63B9E0FA-64E4-4AB6-A2D3-CA90829ACB2A}
+2019-05-17 17:19:10.629 (6652): pid=2952----------------------------------
+2019-05-17 17:19:10.635 (6652): Creating a connection to tde server
+2019-05-17 17:19:10.635 (6652): Starting new server instance
+2019-05-17 17:19:10.636 (6652): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 17:19:10.636 (6652): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 17:19:11.251 (6652): Opening connection to tab.pipe://./pipe/{5B44C354-824F-4744-A9F4-10EA74A622FF}
+2019-05-17 17:19:11.251 (6652): Creating new connection: tab.pipe://./pipe/{5B44C354-824F-4744-A9F4-10EA74A622FF}
+2019-05-17 17:19:11.252 (6652): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:20:13.828 (10848): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:20:53.098 (10848): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:20:55.172 (10848): Dropping connection
+2019-05-17 17:20:55.172 (10848): Closing server at: tab.pipe://./pipe/{5B44C354-824F-4744-A9F4-10EA74A622FF}
+2019-05-17 17:22:09.441 (8032): pid=5892----------------------------------
+2019-05-17 17:22:09.447 (8032): Creating a connection to tde server
+2019-05-17 17:22:09.447 (8032): Starting new server instance
+2019-05-17 17:22:09.447 (8032): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 17:22:09.447 (8032): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 17:22:09.916 (8032): Opening connection to tab.pipe://./pipe/{26B20826-45AA-4CF1-9A19-723DAD7B6338}
+2019-05-17 17:22:09.916 (8032): Creating new connection: tab.pipe://./pipe/{26B20826-45AA-4CF1-9A19-723DAD7B6338}
+2019-05-17 17:22:09.916 (8032): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:29:37.001 (8032): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:29:40.166 (8032): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:29:42.266 (8032): Dropping connection
+2019-05-17 17:29:42.266 (8032): Closing server at: tab.pipe://./pipe/{26B20826-45AA-4CF1-9A19-723DAD7B6338}
+2019-05-17 17:31:58.703 (4172): pid=3556----------------------------------
+2019-05-17 17:31:58.710 (4172): Creating a connection to tde server
+2019-05-17 17:31:58.710 (4172): Starting new server instance
+2019-05-17 17:31:58.710 (4172): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 17:31:58.710 (4172): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 17:31:59.079 (4172): Opening connection to tab.pipe://./pipe/{407E1DBE-1579-4471-B754-EF3A414F3EE7}
+2019-05-17 17:31:59.079 (4172): Creating new connection: tab.pipe://./pipe/{407E1DBE-1579-4471-B754-EF3A414F3EE7}
+2019-05-17 17:31:59.080 (4172): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:33:02.402 (4388): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:33:05.720 (4388): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:33:07.966 (4388): Dropping connection
+2019-05-17 17:33:07.967 (4388): Closing server at: tab.pipe://./pipe/{407E1DBE-1579-4471-B754-EF3A414F3EE7}
+2019-05-17 17:39:49.729 (5856): pid=6260----------------------------------
+2019-05-17 17:39:49.736 (5856): Creating a connection to tde server
+2019-05-17 17:39:49.736 (5856): Starting new server instance
+2019-05-17 17:39:49.736 (5856): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 17:39:49.736 (5856): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 17:39:50.129 (5856): Opening connection to tab.pipe://./pipe/{57790615-41D0-45E2-BAB4-B7240F863D56}
+2019-05-17 17:39:50.129 (5856): Creating new connection: tab.pipe://./pipe/{57790615-41D0-45E2-BAB4-B7240F863D56}
+2019-05-17 17:39:50.130 (5856): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:40:55.270 (3092): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:40:58.459 (3092): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:41:00.575 (3092): Dropping connection
+2019-05-17 17:41:00.576 (3092): Closing server at: tab.pipe://./pipe/{57790615-41D0-45E2-BAB4-B7240F863D56}
+2019-05-17 17:52:14.683 (5996): pid=6120----------------------------------
+2019-05-17 17:52:14.695 (5996): Creating a connection to tde server
+2019-05-17 17:52:14.695 (5996): Starting new server instance
+2019-05-17 17:52:14.695 (5996): DataEngine log file will be written to "DataExtract.log"
+2019-05-17 17:52:14.695 (5996): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-17 17:52:15.189 (5996): Opening connection to tab.pipe://./pipe/{E67D8C6E-5B18-4D5C-982C-8BD349DF86EF}
+2019-05-17 17:52:15.189 (5996): Creating new connection: tab.pipe://./pipe/{E67D8C6E-5B18-4D5C-982C-8BD349DF86EF}
+2019-05-17 17:52:15.189 (5996): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:53:22.303 (7352): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:53:25.609 (7352): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-17 17:53:27.823 (7352): Dropping connection
+2019-05-17 17:53:27.823 (7352): Closing server at: tab.pipe://./pipe/{E67D8C6E-5B18-4D5C-982C-8BD349DF86EF}
+2019-05-27 13:03:06.007 (6564): pid=9948----------------------------------
+2019-05-27 13:03:06.019 (6564): Creating a connection to tde server
+2019-05-27 13:03:06.019 (6564): Starting new server instance
+2019-05-27 13:03:06.019 (6564): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:03:06.020 (6564): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:03:06.560 (6564): Opening connection to tab.pipe://./pipe/{A123645B-8DA3-47D2-A4A6-DF15687DDC23}
+2019-05-27 13:03:06.560 (6564): Creating new connection: tab.pipe://./pipe/{A123645B-8DA3-47D2-A4A6-DF15687DDC23}
+2019-05-27 13:03:06.571 (6564): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:04:17.977 (2572): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:04:21.336 (2572): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:04:23.547 (2572): Dropping connection
+2019-05-27 13:04:23.547 (2572): Closing server at: tab.pipe://./pipe/{A123645B-8DA3-47D2-A4A6-DF15687DDC23}
+2019-05-27 13:04:52.664 (6592): pid=11188----------------------------------
+2019-05-27 13:04:52.669 (6592): Creating a connection to tde server
+2019-05-27 13:04:52.669 (6592): Starting new server instance
+2019-05-27 13:04:52.670 (6592): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:04:52.670 (6592): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:04:53.432 (6592): Opening connection to tab.pipe://./pipe/{5C990810-BAC3-4C83-BAD2-02EA6BF591AA}
+2019-05-27 13:04:53.432 (6592): Creating new connection: tab.pipe://./pipe/{5C990810-BAC3-4C83-BAD2-02EA6BF591AA}
+2019-05-27 13:04:53.432 (6592): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:06:07.632 (6092): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:06:11.366 (6092): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:06:13.717 (6092): Dropping connection
+2019-05-27 13:06:13.717 (6092): Closing server at: tab.pipe://./pipe/{5C990810-BAC3-4C83-BAD2-02EA6BF591AA}
+2019-05-27 13:06:42.571 (10932): pid=7340----------------------------------
+2019-05-27 13:06:42.578 (10932): Creating a connection to tde server
+2019-05-27 13:06:42.578 (10932): Starting new server instance
+2019-05-27 13:06:42.578 (10932): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:06:42.579 (10932): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:06:42.922 (10932): Opening connection to tab.pipe://./pipe/{AE3FE7C9-70C9-4ADB-9584-B3A2C2D2FF59}
+2019-05-27 13:06:42.922 (10932): Creating new connection: tab.pipe://./pipe/{AE3FE7C9-70C9-4ADB-9584-B3A2C2D2FF59}
+2019-05-27 13:06:42.922 (10932): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:08:01.527 (8724): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:08:05.027 (8724): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:08:07.878 (8724): Dropping connection
+2019-05-27 13:08:07.879 (8724): Closing server at: tab.pipe://./pipe/{AE3FE7C9-70C9-4ADB-9584-B3A2C2D2FF59}
+2019-05-27 13:13:12.116 (6128): pid=8036----------------------------------
+2019-05-27 13:13:12.122 (6128): Creating a connection to tde server
+2019-05-27 13:13:12.122 (6128): Starting new server instance
+2019-05-27 13:13:12.122 (6128): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:13:12.122 (6128): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:13:12.478 (6128): Opening connection to tab.pipe://./pipe/{C7C0FF6A-5043-4DBD-BBD5-B7F7E4FE775B}
+2019-05-27 13:13:12.478 (6128): Creating new connection: tab.pipe://./pipe/{C7C0FF6A-5043-4DBD-BBD5-B7F7E4FE775B}
+2019-05-27 13:13:12.478 (6128): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:14:30.229 (1652): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:14:33.732 (1652): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:14:35.899 (1652): Dropping connection
+2019-05-27 13:14:35.899 (1652): Closing server at: tab.pipe://./pipe/{C7C0FF6A-5043-4DBD-BBD5-B7F7E4FE775B}
+2019-05-27 13:17:13.956 (9796): pid=7800----------------------------------
+2019-05-27 13:17:13.968 (9796): Creating a connection to tde server
+2019-05-27 13:17:13.968 (9796): Starting new server instance
+2019-05-27 13:17:13.969 (9796): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:17:13.969 (9796): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:17:14.556 (9796): Opening connection to tab.pipe://./pipe/{EF1F6F1A-85A9-43B5-9272-68CB6718A10D}
+2019-05-27 13:17:14.556 (9796): Creating new connection: tab.pipe://./pipe/{EF1F6F1A-85A9-43B5-9272-68CB6718A10D}
+2019-05-27 13:17:14.556 (9796): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:21:02.205 (11076): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:21:05.648 (11076): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:21:07.830 (11076): Dropping connection
+2019-05-27 13:21:07.831 (11076): Closing server at: tab.pipe://./pipe/{EF1F6F1A-85A9-43B5-9272-68CB6718A10D}
+2019-05-27 13:28:32.760 (10976): pid=10604----------------------------------
+2019-05-27 13:28:32.765 (10976): Creating a connection to tde server
+2019-05-27 13:28:32.765 (10976): Starting new server instance
+2019-05-27 13:28:32.766 (10976): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:28:32.766 (10976): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:28:33.100 (10976): Opening connection to tab.pipe://./pipe/{9B99FF0F-BE0A-44B6-9313-30448CE7335A}
+2019-05-27 13:28:33.100 (10976): Creating new connection: tab.pipe://./pipe/{9B99FF0F-BE0A-44B6-9313-30448CE7335A}
+2019-05-27 13:28:33.100 (10976): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:29:55.057 (7320): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:29:58.534 (7320): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:30:00.785 (7320): Dropping connection
+2019-05-27 13:30:00.785 (7320): Closing server at: tab.pipe://./pipe/{9B99FF0F-BE0A-44B6-9313-30448CE7335A}
+2019-05-27 13:30:25.631 (7404): pid=7364----------------------------------
+2019-05-27 13:30:25.636 (7404): Creating a connection to tde server
+2019-05-27 13:30:25.636 (7404): Starting new server instance
+2019-05-27 13:30:25.636 (7404): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 13:30:25.636 (7404): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 13:30:25.980 (7404): Opening connection to tab.pipe://./pipe/{64E2BC6E-2130-42D7-9059-16EF75EFC965}
+2019-05-27 13:30:25.980 (7404): Creating new connection: tab.pipe://./pipe/{64E2BC6E-2130-42D7-9059-16EF75EFC965}
+2019-05-27 13:30:25.980 (7404): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:31:53.538 (6040): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:31:57.108 (6040): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 13:31:59.405 (6040): Dropping connection
+2019-05-27 13:31:59.405 (6040): Closing server at: tab.pipe://./pipe/{64E2BC6E-2130-42D7-9059-16EF75EFC965}
+2019-05-27 14:49:48.024 (9156): pid=3108----------------------------------
+2019-05-27 14:49:48.031 (9156): Creating a connection to tde server
+2019-05-27 14:49:48.031 (9156): Starting new server instance
+2019-05-27 14:49:48.032 (9156): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 14:49:48.032 (9156): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 14:49:48.336 (9156): Opening connection to tab.pipe://./pipe/{8D4C810F-2482-4B30-9F5B-FFDCED019CD7}
+2019-05-27 14:49:48.336 (9156): Creating new connection: tab.pipe://./pipe/{8D4C810F-2482-4B30-9F5B-FFDCED019CD7}
+2019-05-27 14:49:48.336 (9156): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:51:17.004 (7192): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:51:20.739 (7192): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:51:23.141 (7192): Dropping connection
+2019-05-27 14:51:23.141 (7192): Closing server at: tab.pipe://./pipe/{8D4C810F-2482-4B30-9F5B-FFDCED019CD7}
+2019-05-27 14:52:48.570 (3516): pid=6852----------------------------------
+2019-05-27 14:52:48.570 (3516): Creating a connection to tde server
+2019-05-27 14:52:48.586 (3516): Starting new server instance
+2019-05-27 14:52:48.586 (3516): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 14:52:48.586 (3516): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 14:52:48.974 (3516): Opening connection to tab.pipe://./pipe/{BB16B63C-818A-4678-B692-591A6B39F57B}
+2019-05-27 14:52:48.974 (3516): Creating new connection: tab.pipe://./pipe/{BB16B63C-818A-4678-B692-591A6B39F57B}
+2019-05-27 14:52:48.974 (3516): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:54:24.077 (9004): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:54:27.598 (9004): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:54:29.999 (9004): Dropping connection
+2019-05-27 14:54:29.999 (9004): Closing server at: tab.pipe://./pipe/{BB16B63C-818A-4678-B692-591A6B39F57B}
+2019-05-27 14:55:26.603 (8828): pid=4700----------------------------------
+2019-05-27 14:55:26.610 (8828): Creating a connection to tde server
+2019-05-27 14:55:26.610 (8828): Starting new server instance
+2019-05-27 14:55:26.610 (8828): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 14:55:26.610 (8828): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 14:55:26.959 (8828): Opening connection to tab.pipe://./pipe/{7F2D7FF7-979C-4EB9-8565-59CE5A629C4D}
+2019-05-27 14:55:26.959 (8828): Creating new connection: tab.pipe://./pipe/{7F2D7FF7-979C-4EB9-8565-59CE5A629C4D}
+2019-05-27 14:55:26.959 (8828): Creating new database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:55:57.147 (10936): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:56:10.214 (10936): Dropping connection
+2019-05-27 14:56:10.214 (10936): Closing server at: tab.pipe://./pipe/{7F2D7FF7-979C-4EB9-8565-59CE5A629C4D}
+2019-05-27 14:58:06.593 (11016): pid=544----------------------------------
+2019-05-27 14:58:06.602 (11016): Creating a connection to tde server
+2019-05-27 14:58:06.602 (11016): Starting new server instance
+2019-05-27 14:58:06.602 (11016): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 14:58:06.602 (11016): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 14:58:07.011 (11016): Opening connection to tab.pipe://./pipe/{CBB67331-EE44-45AB-AA61-75F2260F215B}
+2019-05-27 14:58:07.011 (11016): Creating new connection: tab.pipe://./pipe/{CBB67331-EE44-45AB-AA61-75F2260F215B}
+2019-05-27 14:58:07.011 (11016): Creating new database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:58:36.148 (9052): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 14:58:49.077 (9052): Dropping connection
+2019-05-27 14:58:49.077 (9052): Closing server at: tab.pipe://./pipe/{CBB67331-EE44-45AB-AA61-75F2260F215B}
+2019-05-27 14:59:05.237 (4704): pid=11188----------------------------------
+2019-05-27 14:59:05.243 (4704): Creating a connection to tde server
+2019-05-27 14:59:05.243 (4704): Starting new server instance
+2019-05-27 14:59:05.243 (4704): DataEngine log file will be written to "DataExtract.log"
+2019-05-27 14:59:05.243 (4704): Launching tdeserver at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\bin\\tdeserver64.exe"
+2019-05-27 14:59:05.570 (4704): Opening connection to tab.pipe://./pipe/{0F55F642-A2F3-4281-A0A7-12C0B472D7A2}
+2019-05-27 14:59:05.570 (4704): Creating new connection: tab.pipe://./pipe/{0F55F642-A2F3-4281-A0A7-12C0B472D7A2}
+2019-05-27 14:59:05.570 (4704): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 15:00:59.769 (4704): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 15:01:22.921 (4704): Connecting to existing database at "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde"
+2019-05-27 15:01:41.962 (4704): Dropping connection
+2019-05-27 15:01:41.962 (4704): Closing server at: tab.pipe://./pipe/{0F55F642-A2F3-4281-A0A7-12C0B472D7A2}

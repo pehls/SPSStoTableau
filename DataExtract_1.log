@@ -1,0 +1,240 @@
+2019-05-17 15:43:21.043 (8772): -----------------------------------------------------------------------------
+2019-05-17 15:43:21.043 (8772): Initializing fault reporting
+2019-05-17 15:43:21.043 (8772): Fault reporting log pathname: C:\Users\gabriel.pehls\Desktop\teste java\teste2\tdeserver64-error_4644_19-0517-154321.log
+2019-05-17 15:43:21.044 (8772): Initializing MiniDump
+2019-05-17 15:43:21.044 (8772): Loading 'DbgHelp.dll'
+2019-05-17 15:43:21.044 (8772): Loaded 'C:\Windows\system32\dbghelp.dll'
+2019-05-17 15:43:21.044 (8772):   Product Name: Microsoft® Windows® Operating System
+2019-05-17 15:43:21.044 (8772):   File Version: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+2019-05-17 15:43:21.044 (8772):   Product Version: 6.1.7601.17514
+2019-05-17 15:43:21.044 (8772): Finding function 'MiniDumpWriteDump'
+2019-05-17 15:43:21.044 (8772): Success
+2019-05-17 15:43:21.044 (8772): Registering unhandled exception filter
+2019-05-17 15:43:21.045 (8772): -----------------------------------------------------------------------------
+2019-05-17 15:43:21.045 (8772): argv[0]="C:\Users\gabriel.pehls\Desktop\teste java\bin\tdeserver64.exe"
+2019-05-17 15:43:21.045 (8772): argv[1]="--callback"
+2019-05-17 15:43:21.045 (8772): argv[2]="tab.pipe://./pipe/{9CE103D0-519A-4299-8629-D99257F88BD2}"
+2019-05-17 15:43:21.045 (8772): argv[3]="--listen"
+2019-05-17 15:43:21.045 (8772): argv[4]="tab.pipe://./pipe/auto"
+2019-05-17 15:43:21.045 (8772): argv[5]="--desktop"
+2019-05-17 15:43:21.045 (8772): argv[6]="--log"
+2019-05-17 15:43:21.045 (8772): argv[7]="C:\Users\gabriel.pehls\Desktop\teste java\teste2\DataExtract.log"
+2019-05-17 15:43:21.045 (8772): pid=4644
+2019-05-17 15:43:21.045 (8772): Machine Configuration
+2019-05-17 15:43:21.045 (8772):   Max Descriptors: -1
+2019-05-17 15:43:21.045 (8772): Vectorization Support
+2019-05-17 15:43:21.045 (8772):   Supports SSE:    Yes
+2019-05-17 15:43:21.045 (8772):   Supports SSE2:   Yes
+2019-05-17 15:43:21.045 (8772):   Supports SSE3:   Yes
+2019-05-17 15:43:21.045 (8772):   Supports SSE4.1: Yes
+2019-05-17 15:43:21.045 (8772):   Supports SSE4.2: Yes
+2019-05-17 15:43:21.045 (8772):   Supports AVX:    Yes
+2019-05-17 15:43:21.045 (8772):   Supports AVX2:   Yes
+2019-05-17 15:43:21.045 (8772): Adjusted Values
+2019-05-17 15:43:21.045 (8772):   Physical RAM:              8464728064
+2019-05-17 15:43:21.045 (8772):   CPUs available to process: 4
+2019-05-17 15:43:21.045 (8772):   worker-threads:            4
+2019-05-17 15:43:21.045 (8772):   max-concurrency:           2
+2019-05-17 15:43:21.045 (8772):   query-parallelism:         2
+2019-05-17 15:43:21.045 (8772):   min-query-parallelism:     2
+2019-05-17 15:43:21.045 (8772):   work-buffer-size:          64
+2019-05-17 15:43:21.045 (8772):   TrackingMappedFiles :      1
+2019-05-17 15:43:21.045 (8772):   MemoryMapEntireFile:       1
+2019-05-17 15:43:21.045 (8772):   use-openfile-cache:        1
+2019-05-17 15:43:21.045 (8772): tdeserver: server listening for incoming connections at: tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}
+2019-05-17 15:43:21.045 (8772): tdeserver: new connection, connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}
+2019-05-17 15:43:21.046 (9448): tdeserver: open session1, connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}
+2019-05-17 15:43:21.046 (0928): Session1: QueryExecute:
+2019-05-17 15:43:21.046 (0928): (database "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde")
+2019-05-17 15:43:21.047 (0928): Compiling query with Memory Budget=1702752256 MemoryAvailable=1702752256
+2019-05-17 15:43:21.047 (0928): Session1: QueryExecute: OK, Elapsed time:0.001s, Compilation time:0.001s, Execution time:0.000s
+2019-05-17 15:43:21.047 (10716): Session1: QueryExecute:
+2019-05-17 15:43:21.047 (10716): (show schemas)
+2019-05-17 15:43:21.047 (10716): Compiling query with Memory Budget=1702719488 MemoryAvailable=1702719488
+2019-05-17 15:43:21.047 (10716): Session1: QueryExecute: OK rowset_guid=1 n_columns=1, Elapsed time:0.001s, Compilation time:0.000s, Execution time:0.001s
+2019-05-17 15:43:21.048 (9088): Session1: RowsetGetValues: rowset_guid=1
+2019-05-17 15:43:21.048 (3760): Session1: RowsetGetValues: rowset_guid=1
+2019-05-17 15:43:21.048 (0928): Session1: RowsetClose: rowset_guid=1
+2019-05-17 15:43:21.048 (10716): Session1: QueryExecute:
+2019-05-17 15:43:21.048 (10716): (show tables [Extract])
+2019-05-17 15:43:21.048 (10716): Compiling query with Memory Budget=1702596608 MemoryAvailable=1702596608
+2019-05-17 15:43:21.049 (10716): Session1: QueryExecute: OK rowset_guid=2 n_columns=1, Elapsed time:0.001s, Compilation time:0.000s, Execution time:0.001s
+2019-05-17 15:43:21.049 (9088): Session1: RowsetGetValues: rowset_guid=2
+2019-05-17 15:43:21.049 (3760): Session1: RowsetGetValues: rowset_guid=2
+2019-05-17 15:43:21.049 (0928): Session1: RowsetClose: rowset_guid=2
+2019-05-17 15:43:21.049 (10716): Session1: QueryExecute:
+2019-05-17 15:43:21.049 (10716): (top (table [Extract].[Extract]) () 0)
+2019-05-17 15:43:21.058 (10716): Compiling query with DOP=2
+2019-05-17 15:43:21.059 (10716): Compiling query with Memory Budget=1701056512 MemoryAvailable=1701056512
+2019-05-17 15:43:21.059 (10716): Session1: QueryExecute: OK rowset_guid=3 n_columns=8, Elapsed time:0.010s, Compilation time:0.009s, Execution time:0.000s
+2019-05-17 15:43:21.060 (9088): Session1: RowsetClose: rowset_guid=3
+2019-05-17 15:43:21.062 (3760): Session1: QueryExecute:
+2019-05-17 15:43:21.062 (3760): (create schema [DE_Temp])
+2019-05-17 15:43:21.062 (3760): Compiling query with Memory Budget=1700704256 MemoryAvailable=1700704256
+2019-05-17 15:43:21.176 (3760): Session1: QueryExecute: OK, Elapsed time:0.114s, Compilation time:0.000s, Execution time:0.114s
+2019-05-17 15:43:21.176 (0928): Session1: QueryExecute:
+2019-05-17 15:43:21.176 (0928): (create table [DE_Temp].[Extract])
+2019-05-17 15:43:21.176 (0928): Compiling query with Memory Budget=1686040576 MemoryAvailable=1686040576
+2019-05-17 15:43:21.317 (0928): Session1: QueryExecute: OK, Elapsed time:0.140s, Compilation time:0.000s, Execution time:0.140s
+2019-05-17 15:43:21.317 (10716): Session1: QueryExecute:
+2019-05-17 15:43:21.317 (10716): (create column [DE_Temp].[Extract].[Purchased] ( ( "builtin" "datetime" ) ( "factory" "builtin" ) ( "ordinal" "0" ) ))
+2019-05-17 15:43:21.344 (10716): Compiling query with Memory Budget=1706012672 MemoryAvailable=1706012672
+2019-05-17 15:43:21.501 (10716): Session1: QueryExecute: OK, Elapsed time:0.184s, Compilation time:0.027s, Execution time:0.157s
+2019-05-17 15:43:21.501 (9088): Session1: QueryExecute:
+2019-05-17 15:43:21.501 (9088): (create column [DE_Temp].[Extract].[Product] ( ( "collation" "en_GB" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "1" ) ( "scale" "1" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:21.501 (9088): Compiling query with Memory Budget=1698271232 MemoryAvailable=1698271232
+2019-05-17 15:43:21.561 (9088): Session1: QueryExecute: OK, Elapsed time:0.060s, Compilation time:0.000s, Execution time:0.059s
+2019-05-17 15:43:21.561 (3760): Session1: QueryExecute:
+2019-05-17 15:43:21.561 (3760): (create column [DE_Temp].[Extract].[uProduct] ( ( "collation" "en_GB" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "2" ) ( "scale" "2" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:21.561 (3760): Compiling query with Memory Budget=1687482368 MemoryAvailable=1687482368
+2019-05-17 15:43:21.634 (3760): Session1: QueryExecute: OK, Elapsed time:0.073s, Compilation time:0.000s, Execution time:0.073s
+2019-05-17 15:43:21.634 (0928): Session1: QueryExecute:
+2019-05-17 15:43:21.634 (0928): (create column [DE_Temp].[Extract].[Price] ( ( "builtin" "double" ) ( "factory" "builtin" ) ( "ordinal" "3" ) ))
+2019-05-17 15:43:21.634 (0928): Compiling query with Memory Budget=1679892480 MemoryAvailable=1679892480
+2019-05-17 15:43:21.709 (0928): Session1: QueryExecute: OK, Elapsed time:0.075s, Compilation time:0.000s, Execution time:0.075s
+2019-05-17 15:43:21.709 (10716): Session1: QueryExecute:
+2019-05-17 15:43:21.709 (10716): (create column [DE_Temp].[Extract].[Quantity] ( ( "builtin" "bigint" ) ( "factory" "builtin" ) ( "ordinal" "4" ) ))
+2019-05-17 15:43:21.709 (10716): Compiling query with Memory Budget=1705021440 MemoryAvailable=1705021440
+2019-05-17 15:43:21.784 (10716): Session1: QueryExecute: OK, Elapsed time:0.075s, Compilation time:0.000s, Execution time:0.075s
+2019-05-17 15:43:21.784 (9088): Session1: QueryExecute:
+2019-05-17 15:43:21.784 (9088): (create column [DE_Temp].[Extract].[Taxed] ( ( "builtin" "bit" ) ( "factory" "builtin" ) ( "ordinal" "5" ) ))
+2019-05-17 15:43:21.784 (9088): Compiling query with Memory Budget=1702506496 MemoryAvailable=1702506496
+2019-05-17 15:43:21.857 (9088): Session1: QueryExecute: OK, Elapsed time:0.073s, Compilation time:0.000s, Execution time:0.073s
+2019-05-17 15:43:21.857 (3760): Session1: QueryExecute:
+2019-05-17 15:43:21.857 (3760): (create column [DE_Temp].[Extract].[Expiration Date] ( ( "builtin" "date" ) ( "factory" "builtin" ) ( "ordinal" "6" ) ))
+2019-05-17 15:43:21.857 (3760): Compiling query with Memory Budget=1702465536 MemoryAvailable=1702465536
+2019-05-17 15:43:21.931 (3760): Session1: QueryExecute: OK, Elapsed time:0.074s, Compilation time:0.000s, Execution time:0.074s
+2019-05-17 15:43:21.931 (0928): Session1: QueryExecute:
+2019-05-17 15:43:21.931 (0928): (create column [DE_Temp].[Extract].[Produkt] ( ( "collation" "de" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "7" ) ( "scale" "1" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:21.931 (0928): Compiling query with Memory Budget=1701507072 MemoryAvailable=1701507072
+2019-05-17 15:43:22.006 (0928): Session1: QueryExecute: OK, Elapsed time:0.075s, Compilation time:0.000s, Execution time:0.075s
+2019-05-17 15:43:22.011 (10716): Session1: QueryExecute:
+2019-05-17 15:43:22.011 (10716): (package)
+2019-05-17 15:43:22.011 (10716): Compiling query with Memory Budget=1701187584 MemoryAvailable=1701187584
+2019-05-17 15:43:22.011 (10716): PackageDatabase: in-place package of "C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde"
+2019-05-17 15:43:22.137 (10716): TDE error=401: PackageDatabase: failed, src="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", dst="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde.pkg", errno=32, error="O arquivo já está sendo usado por outro processo.", exception="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde"
+2019-05-17 15:43:22.137 (10716): Session1: QueryExecute: FAILED, error=PackageDatabase: failed, src="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", dst="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde.pkg", errno=32, error="O arquivo já está sendo usado por outro processo.", exception="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", Elapsed time:0.126s, Compilation time:0.000s, Execution time:0.126s
+2019-05-17 15:43:22.137 (9448): tdeserver: close session1, connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}
+2019-05-17 15:43:22.137 (8772): tdeserver: closing connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}
+2019-05-17 15:43:22.137 (9448): tdeserver: disconnected connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}: IPC_NamedPipeConnection::Read(len=16, connection=tab.pipe://./pipe/{71D3E208-D161-49EE-92F1-2FF51F8D865D}): O pipe foi finalizado.
+2019-05-17 15:43:22.138 (8772): tdeserver: exit (0)
+2019-05-17 15:43:33.934 (6784): -----------------------------------------------------------------------------
+2019-05-17 15:43:33.934 (6784): Initializing fault reporting
+2019-05-17 15:43:33.934 (6784): Fault reporting log pathname: C:\Users\gabriel.pehls\Desktop\teste java\teste2\tdeserver64-error_7492_19-0517-154333.log
+2019-05-17 15:43:33.935 (6784): Initializing MiniDump
+2019-05-17 15:43:33.935 (6784): Loading 'DbgHelp.dll'
+2019-05-17 15:43:33.935 (6784): Loaded 'C:\Windows\system32\dbghelp.dll'
+2019-05-17 15:43:33.935 (6784):   Product Name: Microsoft® Windows® Operating System
+2019-05-17 15:43:33.935 (6784):   File Version: 6.1.7601.17514 (win7sp1_rtm.101119-1850)
+2019-05-17 15:43:33.935 (6784):   Product Version: 6.1.7601.17514
+2019-05-17 15:43:33.935 (6784): Finding function 'MiniDumpWriteDump'
+2019-05-17 15:43:33.935 (6784): Success
+2019-05-17 15:43:33.935 (6784): Registering unhandled exception filter
+2019-05-17 15:43:33.944 (6784): -----------------------------------------------------------------------------
+2019-05-17 15:43:33.944 (6784): argv[0]="C:\Users\gabriel.pehls\Desktop\teste java\bin\tdeserver64.exe"
+2019-05-17 15:43:33.944 (6784): argv[1]="--callback"
+2019-05-17 15:43:33.944 (6784): argv[2]="tab.pipe://./pipe/{57569513-7C69-48C9-A61C-8A209FBCE413}"
+2019-05-17 15:43:33.944 (6784): argv[3]="--listen"
+2019-05-17 15:43:33.944 (6784): argv[4]="tab.pipe://./pipe/auto"
+2019-05-17 15:43:33.944 (6784): argv[5]="--desktop"
+2019-05-17 15:43:33.944 (6784): argv[6]="--log"
+2019-05-17 15:43:33.944 (6784): argv[7]="C:\Users\gabriel.pehls\Desktop\teste java\teste2\DataExtract.log"
+2019-05-17 15:43:33.944 (6784): pid=7492
+2019-05-17 15:43:33.944 (6784): Machine Configuration
+2019-05-17 15:43:33.944 (6784):   Max Descriptors: -1
+2019-05-17 15:43:33.944 (6784): Vectorization Support
+2019-05-17 15:43:33.944 (6784):   Supports SSE:    Yes
+2019-05-17 15:43:33.944 (6784):   Supports SSE2:   Yes
+2019-05-17 15:43:33.944 (6784):   Supports SSE3:   Yes
+2019-05-17 15:43:33.944 (6784):   Supports SSE4.1: Yes
+2019-05-17 15:43:33.944 (6784):   Supports SSE4.2: Yes
+2019-05-17 15:43:33.944 (6784):   Supports AVX:    Yes
+2019-05-17 15:43:33.944 (6784):   Supports AVX2:   Yes
+2019-05-17 15:43:33.944 (6784): Adjusted Values
+2019-05-17 15:43:33.944 (6784):   Physical RAM:              8464728064
+2019-05-17 15:43:33.944 (6784):   CPUs available to process: 4
+2019-05-17 15:43:33.944 (6784):   worker-threads:            4
+2019-05-17 15:43:33.944 (6784):   max-concurrency:           2
+2019-05-17 15:43:33.944 (6784):   query-parallelism:         2
+2019-05-17 15:43:33.944 (6784):   min-query-parallelism:     2
+2019-05-17 15:43:33.944 (6784):   work-buffer-size:          64
+2019-05-17 15:43:33.944 (6784):   TrackingMappedFiles :      1
+2019-05-17 15:43:33.944 (6784):   MemoryMapEntireFile:       1
+2019-05-17 15:43:33.944 (6784):   use-openfile-cache:        1
+2019-05-17 15:43:33.945 (6784): tdeserver: server listening for incoming connections at: tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}
+2019-05-17 15:43:33.945 (6784): tdeserver: new connection, connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}
+2019-05-17 15:43:33.945 (4100): tdeserver: open session1, connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}
+2019-05-17 15:43:33.945 (5220): Session1: QueryExecute:
+2019-05-17 15:43:33.945 (5220): (database "C:\\Users\\gabriel.pehls\\Desktop\\teste java\\Extract.tde")
+2019-05-17 15:43:33.946 (5220): Compiling query with Memory Budget=1680674816 MemoryAvailable=1680674816
+2019-05-17 15:43:33.946 (5220): Session1: QueryExecute: OK, Elapsed time:0.001s, Compilation time:0.001s, Execution time:0.000s
+2019-05-17 15:43:33.946 (9384): Session1: QueryExecute:
+2019-05-17 15:43:33.946 (9384): (show schemas)
+2019-05-17 15:43:33.946 (9384): Compiling query with Memory Budget=1680642048 MemoryAvailable=1680642048
+2019-05-17 15:43:33.947 (9384): Session1: QueryExecute: OK rowset_guid=1 n_columns=1, Elapsed time:0.001s, Compilation time:0.000s, Execution time:0.001s
+2019-05-17 15:43:33.947 (3744): Session1: RowsetGetValues: rowset_guid=1
+2019-05-17 15:43:33.947 (5876): Session1: RowsetGetValues: rowset_guid=1
+2019-05-17 15:43:33.947 (5220): Session1: RowsetClose: rowset_guid=1
+2019-05-17 15:43:33.947 (9384): Session1: QueryExecute:
+2019-05-17 15:43:33.947 (9384): (show tables [Extract])
+2019-05-17 15:43:33.947 (9384): Compiling query with Memory Budget=1680551936 MemoryAvailable=1680551936
+2019-05-17 15:43:33.949 (9384): Session1: QueryExecute: OK rowset_guid=2 n_columns=1, Elapsed time:0.002s, Compilation time:0.000s, Execution time:0.002s
+2019-05-17 15:43:33.949 (3744): Session1: RowsetGetValues: rowset_guid=2
+2019-05-17 15:43:33.950 (5876): Session1: RowsetGetValues: rowset_guid=2
+2019-05-17 15:43:33.950 (5220): Session1: RowsetClose: rowset_guid=2
+2019-05-17 15:43:33.950 (9384): Session1: QueryExecute:
+2019-05-17 15:43:33.950 (9384): (top (table [Extract].[Extract]) () 0)
+2019-05-17 15:43:33.960 (9384): Compiling query with DOP=2
+2019-05-17 15:43:33.960 (9384): Compiling query with Memory Budget=1679847424 MemoryAvailable=1679847424
+2019-05-17 15:43:33.961 (9384): Session1: QueryExecute: OK rowset_guid=3 n_columns=8, Elapsed time:0.010s, Compilation time:0.010s, Execution time:0.000s
+2019-05-17 15:43:33.961 (3744): Session1: RowsetClose: rowset_guid=3
+2019-05-17 15:43:33.963 (5876): Session1: QueryExecute:
+2019-05-17 15:43:33.963 (5876): (create schema [DE_Temp])
+2019-05-17 15:43:33.963 (5876): Compiling query with Memory Budget=1679773696 MemoryAvailable=1679773696
+2019-05-17 15:43:34.088 (5876): Session1: QueryExecute: OK, Elapsed time:0.126s, Compilation time:0.000s, Execution time:0.125s
+2019-05-17 15:43:34.089 (5220): Session1: QueryExecute:
+2019-05-17 15:43:34.089 (5220): (create table [DE_Temp].[Extract])
+2019-05-17 15:43:34.089 (5220): Compiling query with Memory Budget=1676173312 MemoryAvailable=1676173312
+2019-05-17 15:43:34.207 (5220): Session1: QueryExecute: OK, Elapsed time:0.119s, Compilation time:0.000s, Execution time:0.119s
+2019-05-17 15:43:34.208 (9384): Session1: QueryExecute:
+2019-05-17 15:43:34.208 (9384): (create column [DE_Temp].[Extract].[Purchased] ( ( "builtin" "datetime" ) ( "factory" "builtin" ) ( "ordinal" "0" ) ))
+2019-05-17 15:43:34.233 (9384): Compiling query with Memory Budget=1671876608 MemoryAvailable=1671876608
+2019-05-17 15:43:34.535 (9384): Session1: QueryExecute: OK, Elapsed time:0.328s, Compilation time:0.026s, Execution time:0.302s
+2019-05-17 15:43:34.536 (3744): Session1: QueryExecute:
+2019-05-17 15:43:34.536 (3744): (create column [DE_Temp].[Extract].[Product] ( ( "collation" "en_GB" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "1" ) ( "scale" "1" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:34.536 (3744): Compiling query with Memory Budget=1667072000 MemoryAvailable=1667072000
+2019-05-17 15:43:34.612 (3744): Session1: QueryExecute: OK, Elapsed time:0.076s, Compilation time:0.000s, Execution time:0.076s
+2019-05-17 15:43:34.612 (5876): Session1: QueryExecute:
+2019-05-17 15:43:34.612 (5876): (create column [DE_Temp].[Extract].[uProduct] ( ( "collation" "en_GB" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "2" ) ( "scale" "2" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:34.613 (5876): Compiling query with Memory Budget=1665708032 MemoryAvailable=1665708032
+2019-05-17 15:43:34.686 (5876): Session1: QueryExecute: OK, Elapsed time:0.073s, Compilation time:0.000s, Execution time:0.073s
+2019-05-17 15:43:34.686 (5220): Session1: QueryExecute:
+2019-05-17 15:43:34.686 (5220): (create column [DE_Temp].[Extract].[Price] ( ( "builtin" "double" ) ( "factory" "builtin" ) ( "ordinal" "3" ) ))
+2019-05-17 15:43:34.686 (5220): Compiling query with Memory Budget=1665282048 MemoryAvailable=1665282048
+2019-05-17 15:43:34.759 (5220): Session1: QueryExecute: OK, Elapsed time:0.073s, Compilation time:0.000s, Execution time:0.073s
+2019-05-17 15:43:34.760 (9384): Session1: QueryExecute:
+2019-05-17 15:43:34.760 (9384): (create column [DE_Temp].[Extract].[Quantity] ( ( "builtin" "bigint" ) ( "factory" "builtin" ) ( "ordinal" "4" ) ))
+2019-05-17 15:43:34.760 (9384): Compiling query with Memory Budget=1689833472 MemoryAvailable=1689833472
+2019-05-17 15:43:34.835 (9384): Session1: QueryExecute: OK, Elapsed time:0.075s, Compilation time:0.000s, Execution time:0.075s
+2019-05-17 15:43:34.835 (3744): Session1: QueryExecute:
+2019-05-17 15:43:34.835 (3744): (create column [DE_Temp].[Extract].[Taxed] ( ( "builtin" "bit" ) ( "factory" "builtin" ) ( "ordinal" "5" ) ))
+2019-05-17 15:43:34.835 (3744): Compiling query with Memory Budget=1689743360 MemoryAvailable=1689743360
+2019-05-17 15:43:34.909 (3744): Session1: QueryExecute: OK, Elapsed time:0.073s, Compilation time:0.000s, Execution time:0.073s
+2019-05-17 15:43:34.909 (5876): Session1: QueryExecute:
+2019-05-17 15:43:34.909 (5876): (create column [DE_Temp].[Extract].[Expiration Date] ( ( "builtin" "date" ) ( "factory" "builtin" ) ( "ordinal" "6" ) ))
+2019-05-17 15:43:34.909 (5876): Compiling query with Memory Budget=1689706496 MemoryAvailable=1689706496
+2019-05-17 15:43:34.975 (5876): Session1: QueryExecute: OK, Elapsed time:0.066s, Compilation time:0.000s, Execution time:0.066s
+2019-05-17 15:43:34.975 (5220): Session1: QueryExecute:
+2019-05-17 15:43:34.975 (5220): (create column [DE_Temp].[Extract].[Produkt] ( ( "collation" "de" ) ( "compression" "heap" ) ( "factory" "varchar" ) ( "ordinal" "7" ) ( "scale" "1" ) ( "storagewidth" "8" ) ))
+2019-05-17 15:43:34.976 (5220): Compiling query with Memory Budget=1683828736 MemoryAvailable=1683828736
+2019-05-17 15:43:35.047 (5220): Session1: QueryExecute: OK, Elapsed time:0.071s, Compilation time:0.000s, Execution time:0.071s
+2019-05-17 15:43:35.051 (9384): Session1: QueryExecute:
+2019-05-17 15:43:35.051 (9384): (package)
+2019-05-17 15:43:35.051 (9384): Compiling query with Memory Budget=1670467584 MemoryAvailable=1670467584
+2019-05-17 15:43:35.051 (9384): PackageDatabase: in-place package of "C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde"
+2019-05-17 15:43:35.165 (9384): TDE error=401: PackageDatabase: failed, src="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", dst="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde.pkg", errno=32, error="O arquivo já está sendo usado por outro processo.", exception="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde"
+2019-05-17 15:43:35.165 (9384): Session1: QueryExecute: FAILED, error=PackageDatabase: failed, src="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", dst="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde.pkg", errno=32, error="O arquivo já está sendo usado por outro processo.", exception="C:\Users\gabriel.pehls\Desktop\teste java\Extract.tde", Elapsed time:0.114s, Compilation time:0.000s, Execution time:0.114s
+2019-05-17 15:43:35.166 (4100): tdeserver: close session1, connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}
+2019-05-17 15:43:35.166 (4100): tdeserver: disconnected connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}: IPC_NamedPipeConnection::Read(len=16, connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}): O pipe foi finalizado.
+2019-05-17 15:43:35.166 (4100): tdeserver: closing connection=tab.pipe://./pipe/{D8F5017A-6EEB-4D5F-B856-A7488722D2DE}
+2019-05-17 15:43:35.166 (6784): tdeserver: exit (0)
